@@ -4,9 +4,9 @@ CV面试中的常见算法
 
 ## TODO LIST
 - [x] [pytorch分类算法](./classification.py)
-- [] [K-means]()
+- [x] [K-means](./kmeans/kmeans.py)
 - [] [KNN]()
-- [] [NMS]()
+- [x] [NMS](./nms/nms.py)
 - [] [PCA]()
 
 
@@ -18,3 +18,13 @@ CV面试中的常见算法
 ***
 
 
+## 2、用python实现kmeans
+[2、用python实现kmeans](./kmeans/kmeans.py)
+
+***
+
+
+## 3、用python实现nms
+[3、用python实现nms](./nms/nms.py)
+
+***
