@@ -1,6 +1,6 @@
 # CVAlgorithm
 
-CV面试中的常见算法
+<!-- CV面试中的常见算法 -->
 
 ## TODO LIST
 - [x] [pytorch分类算法](./classification.py)
@@ -26,5 +26,10 @@ CV面试中的常见算法
 
 ## 3、用python实现nms
 [3、用python实现nms](./nms/nms.py)
+
+
+## 4、pytorch的Resize插值方法
+[4、pytorch的Resize插值方法](./resize/resize.py)
+
 
 ***
